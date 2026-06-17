@@ -1,0 +1,9 @@
+{
+  "name": "Azkaartube",
+  "description": "Next-generation video experience. Modern, minimal, and community-driven.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
